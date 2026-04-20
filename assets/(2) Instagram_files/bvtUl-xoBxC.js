@@ -1,0 +1,4 @@
+;/*FB_PKG_DELIM*/
+
+__d("PolarisProfessionalAccountSettingsRoot.entrypoint",["JSResourceForInteraction"],(function(t,n,r,o,a,i,l){"use strict";var e={getPreloadProps:function(t){return{}},root:r("JSResourceForInteraction")("PolarisProfessionalAccountSettingsRoot.react").__setRef("PolarisProfessionalAccountSettingsRoot.entrypoint")};l.default=e}),98);
+__d("PolarisSettingsProfessionalAccountToolsRoot.entrypoint",["JSResourceForInteraction"],(function(t,n,r,o,a,i,l){"use strict";var e={getPreloadProps:function(t){return{queries:{}}},root:r("JSResourceForInteraction")("PolarisSettingsProfessionalAccountToolsRoot.react").__setRef("PolarisSettingsProfessionalAccountToolsRoot.entrypoint")};l.default=e}),98);
